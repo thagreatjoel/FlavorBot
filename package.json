@@ -1,0 +1,10 @@
+{
+  "type":"module",
+  "name":"flavorbot",
+  "version":"0.0.9",
+  "dependencies": {
+    "@slack/bolt": "^4.6.0",
+    "dotenv": "^17.2.3",
+    "node-fetch": "^3.3.2"
+  }
+}
